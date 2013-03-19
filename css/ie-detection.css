@@ -1,0 +1,11 @@
+
+    #ie6-warning-wrapper{width:960px; margin:0 auto; }
+    #ie6-warning{ 
+        background-color:yellow; 
+        font-size:18px;
+        line-height:2;
+        padding:200px;
+    } 
+    #ie6-warning a { 
+        text-decoration:none; 
+    }
